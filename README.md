@@ -1,10 +1,10 @@
 ### Hi there 👋
-<!-- 
-<img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/DeepNeuronAI.png" alt="AI Neuron Deep Learning "> -->
+
+<img src="https://github.com/Ruhul3377/Ruhul3377/blob/main/Deep_Neuro_AIML.png" alt="Deep Neuro AIML "> 
 
 # 💫 About Me:
 
-🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. 🔥🔥
+🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel.I am bringing machine learning skills to the energy industry to help decarbonize the supply of heat and electricity. I continually invest in improving my production capability through training and new challenges. I have been up skilling to Data Science based on my experience in large-scale IT and data infrastructure. 🔥🔥
 
 
 
@@ -13,16 +13,17 @@
 **Ruhul3377/Ruhul3377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Explainable AI, Transformaer Learning
+- 🌱 I’m currently learning Deep Learning, Machine Learning, Data Science
+- 👯 I’m looking to collaborate on Data Fusion and Self Automations.
+- 🤔 I’m looking for help with AI projects
+- 💬 Ask me about AI, CNN, RNN, NLP
+- 📫 How to reach me: me: [Linkdin](https://www.linkedin.com/in/ruhul3377/)
+- 😄 Pronouns: Md Ruhul Amin(Tanis)
+- ⚡ Fun fact: Fly To DREAM but it's so far way!
+
 
 
 
@@ -64,8 +65,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Ruhul3377&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-  <!-- ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ahammadmejbah) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahammadmejbah)  -->
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/RuhulTanis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ruhul_tanis)  -->
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in )
   
