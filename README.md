@@ -2,6 +2,26 @@
 
 <img src="https://github.com/Ruhul3377/Ruhul3377/blob/main/Deep_Neuro_AIML.png" alt="Deep Neuro AIML "> 
 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Md+Ruhul+Amin(Tanis);Data+Science+and+Machine+Learning+Enthusiasts;Experienced+In+AI%2C+DS%2C+DL%2C+ML%2C+CV;2%2B+Years+of+Coding+Experience;Always+Learn+New+Things" alt="Typing SVG" /></a>
+</p>
+
+<br/>
+<p align="center">
+  <a href="https://www.youtube.com/@deepneuronai?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8Vg1b1r1-HTd7bnZBd0Mog?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.youtube.com/@deepneuronai">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8Vg1b1r1-HTd7bnZBd0Mog?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/ahammadmejbah?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ahammadmejbah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ahammadmejbah?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ahammadmejbah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+</p>
+
 # 💫 About Me:
 
 🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel.I am bringing machine learning skills to the energy industry to help decarbonize the supply of heat and electricity. I continually invest in improving my production capability through training and new challenges. I have been up skilling to Data Science based on my experience in large-scale IT and data infrastructure. 🔥🔥
