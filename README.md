@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Md Ruhul Amin(Tanis)👋
 
 <img src="https://github.com/Ruhul3377/Ruhul3377/blob/main/Deep_Neuro_AIML.png" alt="Deep Neuro AIML "> 
 
@@ -24,7 +24,7 @@
 
 # 💫 About Me:
 
-🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel.I am bringing machine learning skills to the energy industry to help decarbonize the supply of heat and electricity. I continually invest in improving my production capability through training and new challenges. I have been up skilling to Data Science based on my experience in large-scale IT and data infrastructure. 🔥🔥
+🔥🔥Machine learning, deep learning, and data science are areas that really pique my attention and where I excel.I am bringing       machine learning skills to the energy industry to help decarbonize the supply of heat and electricity. I continually invest in improving my production capability through training and new challenges.I have been up skilling to Data Science based on my experience in large-scale IT and data infrastructure. 🔥🔥
 
 
 
