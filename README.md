@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 </p>
 </p>
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul77/competition/"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul77/dataset/"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul77/notebook/"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul77/discussion/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/competition/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/dataset/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/notebook/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/discussion/"; />
 </p>
 <!-- <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/competition/light"; />
