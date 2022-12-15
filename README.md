@@ -53,12 +53,19 @@ Here are some ideas to get you started:
   <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
   
 </p>
+</p>
 <p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul3377/competition/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul3377/dataset/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul3377/notebook/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Ruhul3377/discussion/"; />
+</p>
+<!-- <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/competition/light"; />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/dataset/light"; />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/notebook/light"; />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruhul77/discussion/light"; />
-</p>
+</p> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRuhul3377&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![ruhul77](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ruhul77)
